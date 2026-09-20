@@ -1,0 +1,7 @@
+{
+  "name": "TradePilot",
+  "description": "Binance Spot market monitoring, technical analysis, signal scoring, and paper trading assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
